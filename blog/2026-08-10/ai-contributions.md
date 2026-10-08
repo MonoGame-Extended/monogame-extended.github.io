@@ -58,7 +58,7 @@ The Linux kernel community has also been discussing how AI generated contributio
 
 That might seem like an obvious expectation, but it's worth emphasizing. When someone contributes code to an open source project, they are taking responsibility for that contribution. That means being able to explain how it works, why decisions were made, and how to address problems discovered during review.
 
-WHile different projects may draw different lines in the sand, the underlying concern is the same. The responsibility for the contribution needs to remain with the person submitting it, and the review process needs to be a meaningful interaction between developers.
+While different projects may draw different lines in the sand, the underlying concern is the same. The responsibility for the contribution needs to remain with the person submitting it, and the review process needs to be a meaningful interaction between developers.
 
 ## Where AI Generated Contributions Become a Problem
 
@@ -108,7 +108,7 @@ And I want to emphasize this is not about questioning anyone's ability as a deve
 
 MonoGame.Extended has benefited from the work of many contributors over the years, and I want that to continue. I want developers to feel comfortable opening issues, asking questions, discussing implementations, and submitting pull requests even if they're not entirely confident that their first attempt is the best solution.
 
-You don't need to know everything about the library before contributing.  You don't need to have years of experience working with C# or MonoGame. And you certainly don't need to have a perfect implementation ready before starting a discussion.  What matters to me is that you are will to put in the effort to learn, understand the code you are working with, and participate int he process.
+You don't need to know everything about the library before contributing.  You don't need to have years of experience working with C# or MonoGame. And you certainly don't need to have a perfect implementation ready before starting a discussion.  What matters to me is that you are will to put in the effort to learn, understand the code you are working with, and participate in the process.
 
 I would rather help someone learn how to implement something than simply accept an implementation that had an agent produce it for them.
 
