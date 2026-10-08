@@ -30,7 +30,7 @@ And i think there's an important part to that. As developers become more familia
 
 One of the things I think gets overlooked when discussing open source contributions is that the value of a contribution isn't necessarily limited to the code that gets merged. There's also value in the process of making that contribution.
 
-A developer might come into the project with an idea for a feature, but not b e entirely sure how to implement it. They spend some time looking through existing code, figuring out how things work, and putting together an initial implementation. Maybe that implementation has some problems, maybe there are edge cases they didn't consider, or there may be a better approach they were not aware of. Though the review process, they get feedback, learn why certain decisions are made, and hopefully walk away with a better understanding of the codebase and software development in general.
+A developer might come into the project with an idea for a feature, but not be entirely sure how to implement it. They spend some time looking through existing code, figuring out how things work, and putting together an initial implementation. Maybe that implementation has some problems, maybe there are edge cases they didn't consider, or there may be a better approach they were not aware of. Through the review process, they get feedback, learn why certain decisions are made, and hopefully walk away with a better understanding of the codebase and software development in general.
 
 And that's a good thing.
 
@@ -62,7 +62,7 @@ WHile different projects may draw different lines in the sand, the underlying co
 
 ## Where AI Generated Contributions Become a Problem
 
-This brings me to the issue with AI generated contributions. With the tools available today, it's becoming increasingly easy for someone to describe a feature or but to an agent, have it generate an implementation, and submit hte resulting changes.
+This brings me to the issue with AI generated contributions. With the tools available today, it's becoming increasingly easy for someone to describe a feature or but to an agent, have it generate an implementation, and submit the resulting changes.
 
 And to be clear, the code that comes out of that process might work. It might even be a perfectly reasonable implementation of the requested feature. But whether the code works isn't the only thing I'm concerned about.
 
