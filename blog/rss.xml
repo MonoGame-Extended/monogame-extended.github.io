@@ -38,7 +38,7 @@
 <blockquote>
 <p>"The Zig project is also an education project. That's part of our mission statement."</p>
 </blockquote>
-<p>I think this applies particularly well to MonoGame.Extended, and an I'm happy to make time for that investment for contributors.  But when the implementation and subsequent review feedback are being handed off to an AI agent, much of that educational opportunity is lost.</p>
+<p>I think this applies particularly well to MonoGame.Extended, and I'm happy to make time for that investment for contributors.  But when the implementation and subsequent review feedback are being handed off to an AI agent, much of that educational opportunity is lost.</p>
 <p>The Linux kernel community has also been discussing how AI generated contributions should be handled. <a href="https://cdn.kernel.org/doc/html/latest/process/generated-content.html" target="_blank" rel="noopener noreferrer">Their approach isn't quite the same as Zig's, they do not prohibit AI contributions outright</a>, but there is a point in their guidelines that i think is important</p>
 <blockquote>
 <p>"You are expected to understand and be able to defend everything you submit."</p>
