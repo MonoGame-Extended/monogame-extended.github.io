@@ -62,7 +62,7 @@ WHile different projects may draw different lines in the sand, the underlying co
 
 ## Where AI Generated Contributions Become a Problem
 
-This brings me to the issue with AI generated contributions. With the tools available today, it's becoming increasingly easy for someone to describe a feature or but to an agent, have it generate an implementation, and submit the resulting changes.
+This brings me to the issue with AI generated contributions. With the tools available today, it's becoming increasingly easy for someone to describe a feature or bug to an agent, have it generate an implementation, and submit the resulting changes.
 
 And to be clear, the code that comes out of that process might work. It might even be a perfectly reasonable implementation of the requested feature. But whether the code works isn't the only thing I'm concerned about.
 
