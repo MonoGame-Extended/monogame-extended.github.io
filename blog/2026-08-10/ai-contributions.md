@@ -10,7 +10,7 @@ Hi everyone,
 
 I wanted to take some time to talk about something a little different from the usual development and release updates. Specifically I wanted to hit on the topic everyone wants no one to talk about, and that's AI generated code contributions, the role that opens source projects play in helping developers learn, and why MonoGame.Extended will not be accepting AI generated contributions.
 
-This is something I've given quite a bit of though about. While I have my own options about the increasing use of AI in software development, this decision is not simply about that. It's not about whether AI can produce working code. It's more about what I believe MonoGame.Extended should be as an open source project, and what I want to encourage within the community.
+This is something I've given quite a bit of thought about. While I have my own opinions about the increasing use of AI in software development, this decision is not simply about that. It's not about whether AI can produce working code. It's more about what I believe MonoGame.Extended should be as an open source project, and what I want to encourage within the community.
 
 ## MonoGame.Extended as a Learning Resource
 
