@@ -10,7 +10,7 @@ Hi everyone,
 
 I wanted to take some time to talk about something a little different from the usual development and release updates. Specifically I wanted to hit on the topic everyone wants no one to talk about, and that's AI generated code contributions, the role that opens source projects play in helping developers learn, and why MonoGame.Extended will not be accepting AI generated contributions.
 
-This is something I've given quite a bit of though about. While I have my own options about the increasing use of AI in software development, this decision is not simply about that. It's not about whether AI can produce working code. It's more about what I believe MonoGame.Extended should be as an open source project, and what I ant to encourage within the community.
+This is something I've given quite a bit of though about. While I have my own options about the increasing use of AI in software development, this decision is not simply about that. It's not about whether AI can produce working code. It's more about what I believe MonoGame.Extended should be as an open source project, and what I want to encourage within the community.
 
 ## MonoGame.Extended as a Learning Resource
 
@@ -40,7 +40,7 @@ Over time, those contributors become more familiar with the project. They begin 
 
 ## Other Projects Are Asking The Same Questions
 
-Monogame.Extended is not hte only open source project considering how AI generated contributions affect the development and review process.
+Monogame.Extended is not the only open source project considering how AI generated contributions affect the development and review process.
 
 [Recently, Andrew Kelley, the creator of the Zig programming language, discussed why Zig doesn't accept AI generated contributions during an interview with JetBrains](https://www.youtube.com/watch?v=iqddnwKF8HQ).  One of the points he made that particularly resonated with me was that reviewing contributions isn't just about improving the code being submitted. It's also an opportunity to mentor developers and help them grow into more experienced contributors.
 
