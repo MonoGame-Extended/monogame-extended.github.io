@@ -18,9 +18,9 @@ MonoGame.Extended is a library developers get introduced to fairly early on when
 
 Things like cameras, animations, screen management, collision detection, and entity component systems are all things that developers will likely encounter as they begin building more complex games.
 
-MonoGame.Extended was a huge learning resource for me when I first started getting into MonoGame itself and without it, I don't know if I would have been able to catch on to MonoGame development as quickly as I did. Its' as more than just a collection of reusable code.
+MonoGame.Extended was a huge learning resource for me when I first started getting into MonoGame itself and without it, I don't know if I would have been able to catch on to MonoGame development as quickly as I did.
 
-It's also a place where developers can look through the source and see how those systems are implemented. Someone who has never written a camera system before can look at how ours works. Someone interested in particle systems can explore the implementation, understand the decisions that were made, and potentially take that knowledge into their own projects.
+It's more than just a collection of reusable code. It's also a place where developers can look through the source and see how those systems are implemented. Someone who has never written a camera system before can look at how ours works. Someone interested in particle systems can explore the implementation, understand the decisions that were made, and potentially take that knowledge into their own projects.
 
 In that sense, MonoGame.Extended serves as both a library and a learning resource.
 
